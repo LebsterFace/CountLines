@@ -3,8 +3,13 @@
 
 <img src="https://raw.githubusercontent.com/LebsterFace/CountLines/HEAD/demo.png" alt="demo" />
 
-## Usage
+```sh
+npm i countlines-cli
 ```
+[NPM Page](https://www.npmjs.com/package/countlines-cli)
+
+## Usage
+```sh
 countlines [path] [options]
 ```
 
