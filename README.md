@@ -1,7 +1,7 @@
 # CountLines
 > Command-line interface to count the number of lines in a project.
 
-![](demo.png)
+<img src="demo.png" alt="demo" />
 
 ## Usage
 ```
