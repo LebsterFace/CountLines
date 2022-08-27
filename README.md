@@ -1,7 +1,7 @@
 # CountLines
 > Command-line interface to count the number of lines in a project.
 
-<img src="demo.png" alt="demo" />
+<img src="https://raw.githubusercontent.com/LebsterFace/CountLines/HEAD/demo.png" alt="demo" />
 
 ## Usage
 ```
