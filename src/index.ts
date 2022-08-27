@@ -1,5 +1,4 @@
-// @ts-check
-"use strict";
+#!/usr/bin/env node
 
 import { ANSI } from "./ansi.js";
 import { parseArguments, generateHelp } from "./argparse.js";
