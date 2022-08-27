@@ -1,7 +1,8 @@
 {
-	"name": "countlines",
+	"name": "countlines-cli",
 	"version": "1.0.0",
 	"main": "index.js",
+	"prepublish": "tsc",
 	"scripts": {
 		"start": "tsc && node dist/index.js"
 	},
