@@ -1,2 +1,4 @@
 *.bat
 .vscode/
+dist/
+node_modules
